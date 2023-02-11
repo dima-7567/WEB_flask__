@@ -1,5 +1,8 @@
-form.login_form {
+* {
     margin-left: auto;
     margin-right: auto;
-    background-color: red;
+}
+
+h1 {
+   color: #d22e3a
 }
